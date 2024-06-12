@@ -1,1 +1,2 @@
 # Library_Management_System
+Developed a C++ library management system to handle book records. Key features include adding, updating, deleting, searching, and displaying books, each with an ID, name, and author. The system supports importing and exporting records between CSV and binary formats, ensuring data persistence and easy access. It provides a user-friendly interface for library operations, enhancing efficiency and organization.
